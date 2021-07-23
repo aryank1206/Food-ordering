@@ -1,0 +1,129 @@
+[
+  {
+    "id": "9fe8d122-2fde-468f-bb67-2964c3b798f4",
+    "data": [
+      {
+        "text": "paneer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "92025b08-099c-4038-87be-14169059a7f6",
+    "data": [
+      {
+        "text": "biryani",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65ed27ce-ab48-471f-8fdc-ba88999383c1",
+    "data": [
+      {
+        "text": "biryanipaneer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "01a3c5a3-9075-4ec0-82cd-c0bd7162d9f9",
+    "data": [
+      {
+        "text": "munchow",
+        "userDefined": false
+      },
+      {
+        "text": " soup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2de10a9d-eb8c-4636-a572-5e467a051307",
+    "data": [
+      {
+        "text": "soda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1ce6bbf5-4bd7-4db1-98ab-1f18918773f7",
+    "data": [
+      {
+        "text": "ice cream",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be951796-8956-4665-933c-d43e2eab505f",
+    "data": [
+      {
+        "text": "tomato",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": " soup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0d86e69d-7e25-4a68-a7e2-cd839f09961d",
+    "data": [
+      {
+        "text": "paratha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be5106b4-588e-4649-901f-6f6ed73969b7",
+    "data": [
+      {
+        "text": "samosa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
